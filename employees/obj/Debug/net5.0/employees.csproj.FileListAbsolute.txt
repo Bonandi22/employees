@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.exe
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.deps.json
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.runtimeconfig.json
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.runtimeconfig.dev.json
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.dll
+C:\Users\DELL\Documents\Projetos\employees\employees\bin\Debug\net5.0\employees.pdb
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.AssemblyInfo.cs
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.dll
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\refint\employees.dll
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.pdb
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\employees.genruntimeconfig.cache
+C:\Users\DELL\Documents\Projetos\employees\employees\obj\Debug\net5.0\ref\employees.dll
